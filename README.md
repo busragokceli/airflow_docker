@@ -1,2 +1,2 @@
-# airflow_docker
+# Airflow docker template
 Airflow tutorials repository.
